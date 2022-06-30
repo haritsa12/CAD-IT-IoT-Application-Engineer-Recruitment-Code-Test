@@ -60,7 +60,7 @@ for key_date, value_date in group.items():
     for key_room,value_room in value_date.items():
         print('Day ke :',key_date,'dan Room ke  : ',key_room,)
         min_hum = min(group[day['time_day']][day['roomArea']]['humidity'])
-        max_hum = max(value_room['humidity'])
+        max_hum = max(value_room['temperature'])
         median_hum = statistics.median(group[day['time_day']][day['roomArea']]['humidity'])
         avg_hum = statistics.mean(group[day['time_day']][day['roomArea']]['humidity'])
 
