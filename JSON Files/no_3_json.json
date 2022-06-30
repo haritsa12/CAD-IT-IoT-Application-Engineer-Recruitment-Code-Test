@@ -1,0 +1,93 @@
+[
+    {
+        "temperature": 19.00152850260987,
+        "humidity": 81.80944175292646,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:19",
+        "time_day": 1656580039.65395
+    },
+    {
+        "temperature": 19.616121130343842,
+        "humidity": 88.35201553931441,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:21",
+        "time_day": 1656580041.909254
+    },
+    {
+        "temperature": 28.6411523606004,
+        "humidity": 80.66214881271901,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:24",
+        "time_day": 1656580044.346862
+    },
+    {
+        "temperature": 29.264114992478525,
+        "humidity": 89.52810106111426,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:26",
+        "time_day": 1656580046.730624
+    },
+    {
+        "temperature": 16.485080182422656,
+        "humidity": 83.555049839077,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:28",
+        "time_day": 1656580048.894554
+    },
+    {
+        "temperature": 27.901407268488498,
+        "humidity": 80.916238267601,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:31",
+        "time_day": 1656580051.05944
+    },
+    {
+        "temperature": 17.570700684297076,
+        "humidity": 80.10423872165255,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:33",
+        "time_day": 1656580053.234684
+    },
+    {
+        "temperature": 22.3397348734233,
+        "humidity": 83.57053117964868,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:35",
+        "time_day": 1656580055.40256
+    },
+    {
+        "temperature": 25.734488191454318,
+        "humidity": 88.69289566318082,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:37",
+        "time_day": 1656580057.577427
+    },
+    {
+        "temperature": 27.002877125456703,
+        "humidity": 82.37616282041134,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:39",
+        "time_day": 1656580059.751359
+    },
+    {
+        "temperature": 15.18283540151897,
+        "humidity": 81.71049655285887,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:41",
+        "time_day": 1656580061.957961
+    },
+    {
+        "temperature": 24.506477407337695,
+        "humidity": 83.1850346202589,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:44",
+        "time_day": 1656580064.135679
+    },
+    {
+        "temperature": 21.630000205179194,
+        "humidity": 86.18877729708886,
+        "roomArea": "roomArea1",
+        "timestamp": "2022-06-30 16:07:46",
+        "time_day": 1656580066.321527
+    }
+]
