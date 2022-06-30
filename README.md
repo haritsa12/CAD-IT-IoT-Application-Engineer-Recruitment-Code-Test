@@ -1,8 +1,8 @@
 # CAD-IT-IoT-Application-Engineer-Recruitment-Code-Test
 
-FILE TO RUN : - no.1.py for problem no.1
-              - no.2.py for problem no.2
-              - no.3.py for problem no.3
+FILE TO RUN :  no.1.py for problem no.1
+              ; no.2.py for problem no.2
+              ; no.3.py for problem no.3
 
 
 No.1
