@@ -1,5 +1,10 @@
 # CAD-IT-IoT-Application-Engineer-Recruitment-Code-Test
 
+FILE TO RUN : - no.1.py for problem no.1
+              - no.2.py for problem no.2
+              - no.3.py for problem no.3
+
+
 No.1
 
 Problem Definition: Fetching and join data of local json file and web(cloud) json file. local json file contains salary data meanwhile cloud json file contains user information. We have to convert user;s salary from IDR to USD.
